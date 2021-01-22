@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+gensim
+nltk
+newspaper3k
+matplotlib
+seaborn
+geopy
+spacy
+geojson

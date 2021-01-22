@@ -1,0 +1,26 @@
+topic_num,topics,num_articles,resid,predicted_category,probability
+0,mr brown blair labour prime minister ,84,0.8579805608103724,politics,99.98792357392755
+1,clubs chelsea liverpool league arsenal unite player play ,148,0.9364941486969347,sports,99.97999209112302
+2,rates economies growth rise economic price figures quarter ,84,0.8918720814118652,business,99.89282335781104
+3,film festive star movies actor director screens cinema ,123,0.9167752301700933,entertainment,99.99766730594435
+4,broadband bt tv services net people connections million ,68,0.9136252876042202,technology,97.22432660382555
+5,bn profits sale share companies firm market gm ,154,0.9408016002733297,business,99.99591394216864
+6,seed opening matched play australian winning beat ,86,0.9084518552221261,sports,99.98200208868546
+7,music band album charts songs single records number ,124,0.9350382492201085,entertainment,99.99760000933901
+8,lord laws terrorism policing house ruling human rights suspect ,84,0.9109183749380669,politics,98.7390610453479
+9,england's wales rugby france coach robinson ireland nations ,119,0.9171890858179095,sports,98.43874020081091
+10,gaming nintendo console gamers play ds video xbox ,66,0.8829034090405082,technology,96.97652897602977
+11,kenteris test thanou athlete iaaf drugs greek olympic ,36,0.8253767422779359,sports,99.97293887768922
+12,parties election tories labour tax howard mr ,110,0.8912105177603479,politics,99.99327428408918
+13,viruses users site mail search program software microsoft ,86,0.917512067095933,technology,99.99966759827194
+14,yukos russian oil gazprom yugansk rosneft russia court ,33,0.777660152488149,business,76.94437354062065
+15,government eu country's pensions union minister airlines plans ,179,0.9563261061422436,politics,63.06167678087312
+16,awards best nominations oscars won actor prizes actress ,76,0.8699850752930557,entertainment,99.97542976393308
+17,indoor race olympic world's championship champions european holmes ,68,0.8997686198273452,sports,99.63421129733155
+18,mobile phone's handset using services cameras vodafone ,50,0.846868991182002,technology,99.4474771060582
+19,minute half goal penalties ball scoring kicks tries ,53,0.9031897754980334,sports,98.82542933577037
+20,dollars china deficit traded euro oil export bn ,51,0.8917654434174895,business,99.81262282705364
+21,banks bn cards financially debts loan country's central ,40,0.8913423426785453,business,99.83344971473308
+22,technology music digital devices gadget apple computer consumers ,91,0.9262979648329539,technology,99.99986960086544
+23,lse boerse deutsche bid euronext exchanged stocking ,13,0.6407183884386817,business,89.05639328345076
+24,mr ebbers worldcom fraud sullivan ukip account companies ,70,0.9280395250496505,business,98.21906707501572
